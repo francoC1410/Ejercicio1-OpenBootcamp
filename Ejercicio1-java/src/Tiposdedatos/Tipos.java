@@ -26,6 +26,7 @@ public class Tipos {
 
         System.out.println(variable5);
         System.out.println(variable6);
+        
         //2 Booleano
 
         boolean variable7 = true;
